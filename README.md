@@ -1,2 +1,3 @@
-# Algorithm
-数据结构与算法
+# 数据结构基础
+## 目录
+### [**第一章:线性表**](http://nbviewer.jupyter.org/github/YunYang1994/Algorithm/blob/master/DataStructure/1.What%20is%20LinearList%3F.ipynb)<br>
