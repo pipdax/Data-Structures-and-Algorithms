@@ -1,4 +1,9 @@
 # 数据结构基础
+<p align="center">
+    <img width="80%" src="https://github.com/YunYang1994/Algorithm/blob/master/DataStructure/image/Introduction.png" style="max-width:100%;">
+    </a>
+</p>
+
 ## 目录
   * [**线性表**](http://nbviewer.jupyter.org/github/YunYang1994/Algorithm/blob/master/DataStructure/1.What%20is%20LinearList%3F.ipynb)<br>
   * [**栈和队列**](http://nbviewer.jupyter.org/github/YunYang1994/Algorithm/blob/master/DataStructure/2.Introduction%20to%20Stack%20and%20Queue.ipynb)<br>
